@@ -1,0 +1,8 @@
+#!/bin/bash
+export PORT=5000;
+echo $PORT
+export AWS_ACCESS=AKIAYWEI5LGIR6AG3IQI;
+echo $AWS_ACCESS
+export AWS_SECRET=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;
+export DB_USERNAME=admin;
+export DB_PASSWORD=qwe123qwe;
